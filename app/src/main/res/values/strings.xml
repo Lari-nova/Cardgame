@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Card game</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="gameButton">GAME</string>
+    <string name="webViewButton">YANDEX</string>
+    <string name="restartButton">RESTART</string>
+</resources>
